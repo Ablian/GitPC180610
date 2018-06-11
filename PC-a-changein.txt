@@ -1,5 +1,18 @@
 State Key Laboratory of Robotics and Systems, Harbin Institute of Technology, 2 Yikuang, C1 HIT Science Park, 150080 Harbin, China
 
+2.Error
+$ git push -u origin master
+To github.com:Ablian/GitPC180610
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:Ablian/GitPC180610'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Administrator@PC-20130925RAHN MINGW64 /d/Github180609/GitTest001 (master)
+
+
 
 
 
